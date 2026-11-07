@@ -1,0 +1,2 @@
+compras = []
+compras.append("Morango")
