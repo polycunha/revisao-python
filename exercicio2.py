@@ -1,6 +1,5 @@
-numero = int(input("Digite um numero inteiro: "))
-
-if numero >= 0:
-    print("positivo")
-else:
-    print("negativo")
+n:int=10
+while n!=0:
+    print(n)
+    n-=1
+print("fogo")
