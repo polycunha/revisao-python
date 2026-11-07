@@ -1,5 +1,5 @@
-idade = int(input("Digite a sua idade: "))
-if idade >= 18:
-    print ("Maior de idade")
+n:int=int(input("digite um numero inteiro:"))
+if n%2==0 and n%n==0:
+    print(f'{n}:par')
 else:
-    print ("Menor de idade")
+    print(f'{n}:impar')
